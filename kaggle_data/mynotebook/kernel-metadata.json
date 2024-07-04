@@ -1,0 +1,22 @@
+{
+  "id": "lessiashadow/notebooka7c9c2c15d",
+  "id_no": 56268038,
+  "title": "notebooka7c9c2c15d",
+  "code_file": "notebooka7c9c2c15d.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "lessiashadow/depositionsandreports"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": [
+  ]
+}

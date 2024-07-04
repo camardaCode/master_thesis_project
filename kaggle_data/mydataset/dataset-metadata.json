@@ -1,0 +1,12 @@
+{
+  "title": "DepositionsAndReports",
+  "id": "lessiashadow/depositionsandreports",
+  "resources": [
+    {
+      "path": "crime_scene_report.csv"
+    },
+    {
+      "path": "InternetOfThingsCaseStudy_report.csv"
+    }
+  ]
+}
